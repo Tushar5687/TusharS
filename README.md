@@ -1,4 +1,6 @@
-# 💫 About Me:
+# 💫 Hi there , I'm Tushar Sahni
+
+### Aspiring Software Development Engineer
 🔭 I’m currently working on<br>A project called CarbonSense — a dual-purpose web app that quantifies carbon emissions and provides AI-driven carbon neutrality pathways for coal mines. It includes features like activity-wise emission tracking, carbon sink estimation, gap analysis, and AI-powered reduction suggestions.<br><br>🤝 I’m looking to collaborate on<br>Projects focused on climate tech, sustainable development, or AI for social good — especially if you're into building real-world solutions using MERN stack, AI/ML, or data visualization.<br><br>🙋‍♂️ I’m looking for help with<br>Integrating reliable carbon credit APIs and refining AI models to make CarbonSense's suggestions more effective and actionable.<br><br>🌱 I’m currently learning<br>Advanced Data Structures & Algorithms, React.js (planning to explore Next.js soon), and diving deeper into AI integration in web applications.<br><br>💬 Ask me about<br>DSA, building full-stack apps with React, working with APIs, or converting complex ideas into simplified user interfaces. Also happy to share tips on hackathon preparation and real-world project ideation!<br><br>⚡ Fun fact<br>I once built a Virtual Assistant using JavaScript just for fun — and it actually helped me with reminders during exams 😄
 
 
@@ -12,10 +14,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Tushar5687&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar5687&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tushar5687&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
